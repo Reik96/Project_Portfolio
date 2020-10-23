@@ -10,3 +10,17 @@
 * Handling an imbalanced data set
 * Comparing different machine learning models 
 * Optimizing a logistic regression model using GridSearchCV
+
+
+
+
+
+# [Jobsearch-Automation](https://github.com/Reik96/Jobsearch-Automation)
+
+
+## Project Overview:
+
+* Web scraping a website
+* Extracting important job facts
+* Using parameters for dynamic url
+* Saving results in an excel sheet

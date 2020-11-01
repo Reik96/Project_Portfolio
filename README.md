@@ -15,7 +15,7 @@
 
 
 
-# [Jobsearch-Automation](https://github.com/Reik96/Jobsearch-Automation)
+# [Jobsearch Automation](https://github.com/Reik96/Jobsearch-Automation)
 
 
 ## Project Overview:

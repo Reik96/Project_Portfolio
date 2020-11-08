@@ -26,7 +26,7 @@
 * Saving results in an excel sheet
 
 
-# [Jump Height Prediction](https://github.com/Reik96/Jump_Height_Prediction)
+# [Jump Height Prediction in Volleyball](https://github.com/Reik96/Jump_Height_Prediction)
 
 ## Project Overview:
 

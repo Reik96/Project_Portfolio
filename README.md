@@ -24,3 +24,12 @@
 * Extracting important job facts
 * Using parameters for dynamic url
 * Saving results in an excel sheet
+
+
+# [Jump Height Prediction](https://github.com/Reik96/Jump_Height_Prediction)
+
+## Project Overview:
+
+* Using data from the teams of the Volleyball Nations League
+* Performing a linear regression based on age, height and weight of the players
+* creating a simple Webapp with Flask

@@ -1,8 +1,8 @@
-# Project_Portfolio  
+# Project Portfolio  
   
   
 
-# [Binary Classification for Recruiting Data Scientists](https://github.com/Reik96/HR_Analytics)
+# [Machine Learning Application for Recruiting Data Scientists](https://github.com/Reik96/HR_Analytics)
 
 ## Project Overview:
 

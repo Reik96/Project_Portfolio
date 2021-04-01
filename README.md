@@ -7,9 +7,9 @@
 ## Project Overview:
 
 * Handling an imbalanced HR dataset from Big Data / Data Science - Company  
-* Performing a binary Classification including Model Comparison, Validation, Evaluation & Classbalancing 
-* Deploying the ML Model as WebApp Service on Streamlit 
-* Adding functionalities like a connection to MySQL and Tableau Public
+* Performing a binary Classification including Model Comparison, Validation & Evaluation 
+* Deploying a ML Model as WebApp Service on Streamlit 
+* Adding functionalities like a connection to MySQL and embedding a Tableau Public Dashboard
 
 
 # [Binary Classification for Bank Marketing](https://github.com/Reik96/Bank_Marketing_Project)

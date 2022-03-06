@@ -1,6 +1,17 @@
+
 # Project Portfolio  
   
-  
+# [Analyzing Data Science Podcasts](https://github.com/Reik96/Spotfiy_Podcast)
+
+## Project Overview:
+
+This project aims to use the Spotify Web API to extract and analyze Data Science podcasts.
+The project includes several phases:
+1) Authentication to retrieve data via the API. (done)
+2) ETL Pipeline (Extraction of Data from API - Transformation/Validation of the downloaded Data - Loading into a SQLite Database) (done)
+3) Exploratory Data Analysis of the podcast data (open)
+4) Segmentation of podcast data (open)
+
 
 # [Machine Learning Application for Recruiting Data Scientists](https://github.com/Reik96/HR_Analytics)
 
